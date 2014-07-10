@@ -1,0 +1,5 @@
+Client,2000
+Web,200
+Image,300
+LB,300
+DB,400
